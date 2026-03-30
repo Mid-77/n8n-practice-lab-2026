@@ -1,0 +1,32 @@
+# macOs System files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icons
+._*
+.Spotlight-V100
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.com.apple.timemachine.supported
+.com.apple.timemachine.snapshot
+
+# Editor and IDE Settings
+~$*
+.~lock.*
++.tmp
+.vscode/
+.idea/
+*.swp
++~~
+
+# n8n Local Logs and Databases
+*.log
+*.db
+*.sqlite
+*.sqlite3
+*.json
+*.sql
+.history
+.cache/
+.tras
